@@ -30,6 +30,19 @@ To add, commit, and push new binary files to the repository, make sure they are 
 
 # Project 3 : Geometry Calculator
 
+Geometry Calculator is a Python application that provides functions to calculate the areas of circle and rectangle.
+
+## Features
+
+- Calculate the area of circle for the given radius.
+- Calculate the area of the rectangle for the given length and breadth.
+
+## Usage
+
+To use the Geometry Calculator application, run the `geometry_calculator.py` script and select the "rectangle area" option.
+
+To calculate the circle area, select the "circle area" option.
+
 
 
 
